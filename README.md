@@ -53,3 +53,6 @@ Overall, the design focuses on simplicity, modern, balance, and harmony, providi
 
 Link Figma:
 https://www.figma.com/design/Hl15mIzxXiIhBXvt4vSL35/CV?t=2oEcGMzIuUUkwcUJ-1
+
+Public link:
+https://antonics23.github.io/CV-Antoni/
