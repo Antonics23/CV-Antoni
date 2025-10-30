@@ -1,0 +1,114 @@
+
+body {
+  margin: 0;
+  font-family: "Segoe UI", Arial, sans-serif;
+  color: #222;
+  background-color: #f8fafc;
+}
+
+header {
+  background-color: #6078e4;
+  color: white;
+  padding: 40px 0;
+  width: 100%;
+}
+
+.header-content {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 30px;
+  max-width: 1200px;
+  margin: auto;
+}
+
+.profile-pic {
+  width: 120px;
+  height: 120px;
+  border-radius: 50%;
+  border: 3px solid white;
+  object-fit: cover;
+}
+
+h1 {
+  margin: 0;
+  font-size: 2em;
+}
+
+h2 {
+  margin-top: 5px;
+  font-weight: 400;
+}
+
+.contact-info {
+  font-size: 0.9em;
+  margin-top: 10px;
+}
+
+a {
+  color: #b3e5ff;
+}
+main {
+  display: flex;
+  width: 100%;
+  min-height: 70vh;
+}
+
+.left {
+  flex: 3;
+  background-color: #ffffff;
+  padding: 40px 60px;
+}
+
+section {
+  margin-bottom: 40px;
+}
+
+h3 {
+  color: #000000;
+  border-bottom: 2px solid #000000;
+  padding-bottom: 5px;
+  margin-bottom: 15px;
+  text-transform: uppercase;
+  letter-spacing: 1px;
+}
+
+.experience ul {
+  margin-left: 20px;
+  line-height: 1.6;
+}
+
+.skills {
+  flex: 1.2;
+  background-color: #4f47a0;
+  color: white;
+  padding: 40px 30px;
+}
+
+.skills h3 {
+  border-bottom: 2px solid white;
+}
+
+.skills-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 12px;
+  margin-top: 20px;
+}
+
+.skills-list span {
+  background-color: white;
+  color: #00b4d8;
+  padding: 8px 14px;
+  border-radius: 5px;
+  font-size: 0.95em;
+  font-weight: bold;
+}
+
+footer {
+  background-color: #0a2e57;
+  color: white;
+  text-align: center;
+  padding: 15px 0;
+  font-size: 0.85em;
+}
